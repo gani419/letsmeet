@@ -1,4 +1,4 @@
-package com.meetingapp
+package com.tecdroid.letsmeet
 
 import android.app.Application
 import com.facebook.react.PackageList

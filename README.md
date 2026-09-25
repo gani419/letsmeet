@@ -1,4 +1,17 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# LetsMeet 📹
+
+> A modern, real-time video conferencing mobile application built with React Native, Supabase, WebRTC, and customizable 3D animated cartoon avatars.
+
+![LetsMeet App Showcase](assets/screenshots/letsmeet_showcase_banner.jpg)
+
+## 📱 App Highlights
+
+| 🚀 Instant Meetings | 🎥 Crystal Clear Video | 🎨 Custom 3D Avatars |
+| :---: | :---: | :---: |
+| <img src="assets/screenshots/01_instant_meetings_dashboard.jpg" width="260"/> | <img src="assets/screenshots/02_crystal_clear_video_call.jpg" width="260"/> | <img src="assets/screenshots/03_custom_3d_avatars_profile.jpg" width="260"/> |
+| One-tap meeting creation & room codes | 4-way HD calls with mute & camera toggles | Stylized 3D cartoon avatars & profile traits |
+
+---
 
 # Getting Started
 
